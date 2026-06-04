@@ -7,3 +7,5 @@ BACKUP DATABASE AdventureWorks2016
 TO DISK = 'E:\SQL_Backups\AdventureWorks_Diff.bak'
 WITH DIFFERENTIAL, NAME = 'Diff Backup of AdventureWorks2016';
 GO
+
+
