@@ -67,3 +67,5 @@ standartlaştırılması ve dönüştürülmesi.
 - **Veri Yükleme**: Verilerin doğru hedef veritabanlarına yüklenmesi.
 - **Veri Kalitesi Raporları**: Veri temizleme ve dönüştürme sürecine dair
 raporların oluşturulması.
+
+**Video:** [https://youtu.be/zO_uvJlrBOc](https://youtu.be/zO_uvJlrBOc)
