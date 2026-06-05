@@ -53,6 +53,8 @@ Database Mirroring kullanarak yapılandırma.
 - **Failover Senaryoları**: Yük dengeleme için başarısız bir sunucuya geçiş
 stratejilerinin uygulanması.
 
+**Video:** [https://youtu.be/QcSIhOfeK-0](https://youtu.be/QcSIhOfeK-0)
+
 ## 3.Veri Temizleme ve ETL Süreçleri Tasarımı (Proje-5)
 Büyük veri kümelerinin temizlenmesi ve işlenmesi için ETL (Extract,
 Transform, Load) süreçlerinin oluşturulması. Bu süreç, veri hatalarını tespit
