@@ -40,6 +40,8 @@ otomatik hale getirme.
 getirilmesi ve kurtarma süreçleri.
 - **Test Yedekleme Senaryoları**: Yedeklerin doğruluğunu test etme.
 
+**Video:** [https://youtu.be/PbXSRyA2Un8](https://youtu.be/PbXSRyA2Un8)
+
 ## 2. Veritabanı Yük Dengeleme ve Dağıtık Veritabanı Yapıları (Proje-4)
 Birden fazla veritabanının yönetilmesini, yük dengeleme stratejilerini ve
 replikasyon teknikleri.
